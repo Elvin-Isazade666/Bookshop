@@ -1,0 +1,46 @@
+1-What is git? (Git kicik proyektlerden boyuk proyektlere kimi her seyi handle(elde tutmaq) ucun bir version control
+sistemdir. Git open source-dur.)
+2-Why we use it? (umumiyetle gitden faylimizda her hansi deyisiklik etdikde onu izlemek ucun isdifade ede bilerik.
+Daha sonra kecmis layihemize qayitmaq ucun ve yaxud eger bir proyektde meselen 2 nefer isleyirse onlar git vasitesile
+islerini birlesdire bilerler)
+3-What is the GITHub? (GitHub bir cloud-based service (bulud esasli xidmet) ve bir web saytdir. o hemde kamandanin
+is birliyi ucun Giti isdifade etmesini dahada asanlasdirir. GitHub proqramcilarin kodlarindaki deyisiklikleri izlemesine
+ve kodlarini depolamaga komek edir.)
+4-How the web browser works? (Evvelce user browser bara bir url gonderir. browser DNS isdifade ederek IP adresini tapir.
+Her bir saytin IP adresi olur.Daha sonra browser webserverle elaqe yaradir.Browser servere bir HTTP request gonderir.Server
+bunun uzerinde isleyib HTTP response gonderir ve en sonda browser HTML fileni isleyir ,yeni web sehifeni yukleyir.)
+5-What are HTML tags for? (HTML tag lari browserlerin HTML faylini web sehifesine dondurulmesinde komeklik edir.
+HTML tag leri HTML elementinin baslangic ve sonunu birlesdirmek ucun isdifade olunan isareleme dili parcasidi)
+6-What are Attributes for? (Atributlar HTML tag lerine elave bir ozellik qatmaq ucun isdifade oluna biler.HTML atributlari
+adeten atributun adi ve dirnaq arasinda value su yazilir, lakin value su olmayan atributlarda ola biler.Bunlar boolean
+atributlar adlanir. Meselen required checked disabled).
+7-What does CSS do? (Css Cascading Style Sheets anlamina gelir.Css web sehifelerini duzenlemek ucun isdifade oluna biler.
+Meselen yazi tipini rengini olcusunu deyise ve animasiyalar duzelde bilerik.)
+8-What are CSS selectors for? (Css selectorlari web sehifesini duzenlemek ucun HTML elementlerini secmek ucun istifade olunur.
+Biz her hansi HTML elementlerini secmek ucun elementin ozunden,id den,class dan, atributlardan isdifade ede bilerik.Selec-
+torlari umumiyetle 5 nove bolmek olar. sade selectorlar bunlara id class elementin ozunu daxil ede bilerik.Birlesdirici
+selectorlar (Combinators): bunlara +,> ,~ daxil ola biler. pseudo class selectorlari: bura : daxildir meselen element:hover
+pseudo element selectorlarida var bunlara element::first-letter ve basglari daxil ola biler Ve en sonda atribut selectorlari
+da var. burada sadece atribut adi yazilir [] moterizesi icinde.
+9-Why we need CSS reset? (HTML elementleri default olaraq css ozelliklerine malikdir,meselen paddinge margine fonta.Eger biz sehifemizde
+default olaraq bu css ozelliklerini istemirikse onda css reset istifade edirik.Eslinde reset css bu ozellikleri 0 a cevirir.)
+10-What are the advantages of using fonts instead of images as icons? (Evvelce biz icon fonts istifade etdikde icon imagden daha az 
+fayl olcusune sahib olur.o cox balaca fayl oldugundan serverden yalniz bir HTTP requeste ehtiyacindadir.Icon fontlari yuksek pixelli ekran-
+larda bele daha yaxsi gorune biler ve bunlarin olcusunun deyismesi ucun photoshop lazim olmamasidir.Yazilarda isdifade olunan olcu,text-sha-
+dow kimi ozellikleri iconlarada vermek olur.)
+11-What are the advantages of using Flex? (flexbox istifade etmenin ana sebebi butun browserler terefinden desleklenmesidir.flexbox vasi-
+tesile daha az kod yazaraq elementleri ortalaya bilerik ve yan-yana getire bilerik.Flexbox esasen qarmaqarisiqligi asan hala getirir.)
+12-What was the most interesting topic from what you have learned so far? (Why)-(Mene gore en maragli movzu display flexdir.Sebebini sorus-
+duqda deyerdimki sehifenin strukturunu qurarken float ve display inline block isdifade etmekden daha yaxsidir ve isimiz asanlasir.)
+13-What can you do with what you've learned so far?(Dusunuremki javascript hissesi olmadan bir web sehifenin gorunusunu yiga bilerem amma
+helede oz uzerimde calisib ozumu inkisaf etdirmeliyem.)
+14-What is Bootstrap? (Bootstrap HTML, CSS, Javascript ile yazilmis boyuk bir kolleksiya ve yaxud bir kitabxanadir.Bootstrap developerlere
+celd sekilde tam responsive website duzeltmeye imkan verir ve hemcinin bootstrap bize az Css kod yazmagimiza komek edir.)
+15-How is it works? (Bildiyimiz kimi bootstrap evvelceden yazilmis kodlardir. Biz ondan istifade etmek ucun onu resmi saytindan download
+ede bilerik ve yaxud download etmeden CDN vasitesile proyektimize yerlesdire bilerik.Bundan sonra ozumuze ne lazim olacaqsa hemin saytdan
+copy ede bilerik.)
+16-Could you create package like Bootstrap? How? (Mence bunu etmek mumkundur.Evvelceden ozume mexsus responsive navbar buttonlar ve s. 
+duzeldib daha sonra domain vasitesile paylasmaq olar.)
+
+
+

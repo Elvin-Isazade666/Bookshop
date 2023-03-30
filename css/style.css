@@ -1,0 +1,16 @@
+.colour {
+  color: #e0dada !important;
+}
+
+#books h1 {
+  text-align: center;
+}
+
+#jumbotron {
+  background-image: url(../img/jumbotron.png);
+}
+
+#end .low {
+  height: 70px;
+}
+/*# sourceMappingURL=style.css.map */
